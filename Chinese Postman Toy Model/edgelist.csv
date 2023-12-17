@@ -3,7 +3,7 @@ depot,school,1,black,true
 school,rink,1,black,true
 depot,rink,1.41,black,true
 depot,hospital,1,black,true
-hospital,library,1.41,black,true
+hospital,library,1000,black,true
 hospital,rink,1,black,true
 rink,library,1,black,true
 school,library,2,blue,true
